@@ -1,0 +1,4 @@
+ernie_for_sequence_classification.optparams
+ernie_for_sequence_classification.pdparams
+*.txt
+*.json

@@ -1,0 +1,5 @@
+data/
+work/
+log/
+img_classification_ckpt/
+mnist*
